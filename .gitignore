@@ -11,7 +11,7 @@ __pycache__
 .logs
 dev
 _build
-
+input
 doc/build
 # Notebooks copied during doc build
 doc/source/examples/*.ipynb
@@ -21,3 +21,4 @@ nohup.out
 /*.obj
 dist/
 sionna/system/data
+.gitignore
